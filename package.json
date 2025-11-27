@@ -1,6 +1,6 @@
 {
     "description": "session",
-    "main": "./index.js",
+    "main": "index.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
@@ -13,7 +13,7 @@
   "dependencies": {
     "baileys-pro": "latest",
     "maher-zubair-baileys": "^6.6.5",
-    "@whiskeysockets/baileys": "npm:@rexxhayanasi/elaina-bail",
+    "@whiskeysockets/baileys": "npm:wileys",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
